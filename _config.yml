@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Agustin Curto
+description: testing
 
-baseurl: /gradfolio #name of GitHub repository
-url: "https://agustincurto.github.io" #custom url to be used instead of GitHub repository
+baseurl: "/"
+url: "https://agustincurto.github.io"
 email: #
 
 # Pagination
